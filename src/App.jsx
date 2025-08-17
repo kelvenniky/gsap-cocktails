@@ -3,11 +3,11 @@ import { ScrollTrigger, SplitText } from 'gsap/all'
 import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import CockTails from './components/cockTails'
 import About from './components/About'
 import Art from './components/Art'
 import Menu from './components/Menu'
 import Contact from './components/Contact'
+import Tails from './components/Tails'
 
 gsap.registerPlugin(ScrollTrigger, SplitText)
 
@@ -16,7 +16,7 @@ const App = () => {
     <main>
         <Navbar/>
         <Hero/>
-        <CockTails/>
+        <Tails/>
         <About/>
         <Art/>
         <Menu/>

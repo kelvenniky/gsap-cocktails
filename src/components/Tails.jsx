@@ -3,7 +3,7 @@ import { cocktailLists, mockTailLists } from '../constants'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 
-const CockTails = () => {
+const Tails = () => {
 
     useGSAP(()=>{
         const parallaxTimeline = gsap.timeline({
@@ -67,4 +67,4 @@ const CockTails = () => {
   )
 }
 
-export default CockTails
+export default Tails
