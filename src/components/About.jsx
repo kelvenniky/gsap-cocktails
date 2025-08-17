@@ -49,7 +49,7 @@ const About = () => {
                 <span>4.5</span>/5
               </p>
               <p className="text-sm text-white-100">
-                More than +120000 customers
+                More than +1200 customers
               </p>
             </div>
           </div>

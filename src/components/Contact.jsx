@@ -44,7 +44,7 @@ timeline.from(titleSplit.words,{
             <div>
                 <h3>Contact Us</h3>
                 <p>0548336542</p>
-                <p>hello@gail.com</p>
+                <p>hello@gmail.com</p>
             </div>
             <div>
                 <h3>Open Every day</h3>
